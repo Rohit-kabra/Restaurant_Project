@@ -1,0 +1,54 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC restaurant",
+      "address": "noida sector 50",
+      "email": "rk@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "burgerking restaurant",
+      "email": "bgking@gmail.com",
+      "address": "jaipur sector 25"
+    },
+    {
+      "id": 3,
+      "name": "dominos restaurant",
+      "address": "gandhinagar sector 35",
+      "email": "dominos@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Haldiram restaurant",
+      "email": "haldiram@gmail.com",
+      "address": "dwarkadish sector 35"
+    },
+    {
+      "id": 5,
+      "name": "rk restaurant",
+      "email": "rk@gmail.com",
+      "address": "chittorgarh"
+    },
+    {
+      "id": 6,
+      "name": "natural food",
+      "email": "natural@gmail.com",
+      "address": "jaipur"
+    }
+  ],
+  "users": [
+    {
+      "name": "rk",
+      "email": "rk@123",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
